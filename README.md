@@ -6,4 +6,4 @@ https://www.kaggle.com/recker/diabetes-prediction-lr-svc-knn-dt-rf-xgb/notebook
 
 The app has been deployed to heroku using streamlit.
 
-[![Watch the video](https://img.youtube.com/vi/T-4jLtOxqoM38/maxresdefault.jpg)](https://youtu.be/T-4jLtOxqoM38)
+[![DiabetesPredictionAppDemo](https://img.youtube.com/vi/4jLtOxqoM38/maxresdefault.jpg)](https://youtu.be/4jLtOxqoM38)
